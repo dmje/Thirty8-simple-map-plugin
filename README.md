@@ -1,6 +1,6 @@
 ## Simple Map
 
-A really simple "put things on a map" plugin
+A really simple "put things on a map" plugin for WordPress
 
 To make it work, do this:
 
